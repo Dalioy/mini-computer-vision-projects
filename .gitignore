@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+02-panorama-stitching/output/
+02-panorama-stitching/sample_data/raw/
